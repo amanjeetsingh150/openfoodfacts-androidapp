@@ -5,8 +5,13 @@
         android:drawable="@color/white"/>
 
     <item
+        android:top="@dimen/splash_top"
+        android:bottom="@dimen/splash_bottom"
+        android:right="@dimen/splash_right"
+        android:left="@dimen/splash_left"
         android:gravity="center"
-        android:drawable="@drawable/ic_openfacts_logo_no_tagline"
+        android:drawable="@drawable/splash_bg"
         />
+
 
 </layer-list>
