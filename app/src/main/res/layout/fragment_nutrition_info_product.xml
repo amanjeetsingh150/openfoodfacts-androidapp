@@ -25,6 +25,7 @@
             android:layout_marginRight="@dimen/spacing_normal"
             android:layout_marginTop="@dimen/activity_vertical_margin"
             android:adjustViewBounds="true"
+            android:transitionName="@string/product_transition"
             android:background="?android:selectableItemBackground"
             android:maxHeight="120dp"
             android:scaleType="fitCenter"
